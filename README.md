@@ -11,4 +11,8 @@ https://drive.google.com/drive/folders/1HwRyWUXxXsHuIdlcLrc-T-rnPi-dY0I5?usp=dri
 ## Lab2 - Vulnerability Assessment
 - Hướng dẫn thực hành: [link](https://github.com/dzokha1010/Documents/blob/main/Confidence_Security_of_IS/Lab2_Vulnerability_Assessment.md)
 - Lab2 thực hành 01 buổi 5 tiết
-- Sinh viên vắng thực hành buổi 3: 
+- Sinh viên vắng thực hành buổi 3:
+## Lab3 - Malware Detection
+- Hướng dẫn thực hành: [link](https://github.com/dzokha1010/Documents/blob/main/Confidence_Security_of_IS/Lab3_Malware_Detection.md)
+- Lab3 thực hành 01 buổi 5 tiết
+- Sinh viên vắng thực hành buổi 4: 
