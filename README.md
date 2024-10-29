@@ -15,3 +15,6 @@ https://drive.google.com/drive/folders/1HwRyWUXxXsHuIdlcLrc-T-rnPi-dY0I5?usp=dri
 ## Lab3 - Malware Detection
 - Hướng dẫn thực hành: [link](https://github.com/dzokha1010/Documents/blob/main/Confidence_Security_of_IS/Lab3_Malware_Detection.md)
 - Lab3 thực hành 01 buổi 5 tiết
+## Lab4 - Cryptography, Hash Function Applications and Secure Communication Protocol
+- Hướng dẫn thực hành: [link](https://github.com/dzokha1010/Documents/blob/main/Confidence_Security_of_IS/Lab4_Cryptography_Hash_Protocol.md)
+- Lab3 thực hành 01 buổi 5 tiết
