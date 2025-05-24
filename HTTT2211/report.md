@@ -1,4 +1,4 @@
-# HTTT2211 học kỳ 1, năm học 2024 - 2025
+# Lớp HTTT2211 (2024 - 2025)
 ## Thông tin lớp
 - Tổng số sinh viên: 62
 - Số sinh viên nam: 44
