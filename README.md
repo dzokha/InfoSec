@@ -25,5 +25,5 @@
 - Lưu ý: Nên tạo Token thay thế mật khẩu để thuận tiện mỗi khi thực hiện câu lệnh Push
   - Link để tạo Token: https://github.com/settings/tokens
 ## Lecture slides
-[Google Drive](https://drive.google.com/drive/folders/1Qrm-RRD5PwUYYmefRrYaRM9N6x3dDcds?usp=sharing)
+- Slide: [Google Drive](https://drive.google.com/drive/folders/1Qrm-RRD5PwUYYmefRrYaRM9N6x3dDcds?usp=sharing)
 ## Lab1
