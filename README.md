@@ -19,8 +19,8 @@
 - Step 5: Nộp tập tin Word sau buổi thực hành lên kho InfoSec bằng các câu lệnh
   ```
   git add .  
-  git commit -m "<ghi chú>"  
-  git push -u origin <name_branch>
+  git commit -m "ghi chú"  
+  git push -u origin student
   ```
 - Lưu ý: Nên tạo Token thay thế mật khẩu để thuận tiện mỗi khi thực hiện câu lệnh Push
   - Link để tạo Token: https://github.com/settings/tokens
