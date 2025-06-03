@@ -26,4 +26,5 @@
   - Link để tạo Token: https://github.com/settings/tokens
 ## Lecture slides
 - Slide: [Google Drive](https://drive.google.com/drive/folders/1Qrm-RRD5PwUYYmefRrYaRM9N6x3dDcds?usp=sharing)
+- Practical guide: [Github](https://github.com/dzokha1010/Documents/tree/main/InfoSec)
 ## Lab1
