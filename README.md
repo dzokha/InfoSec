@@ -1,4 +1,5 @@
 # InfoSec Laboratory
+<<<<<<< HEAD
 ## Tài liệu và hướng dẫn thực hành
 - Link chia sẻ Slide bài giảng: [https://drive.google.com/drive/folders/1Qrm-RRD5PwUYYmefRrYaRM9N6x3dDcds](https://drive.google.com/drive/folders/1Qrm-RRD5PwUYYmefRrYaRM9N6x3dDcds)
 - Link hướng dẫn sử dụng github: [https://github.com/dzokha1010/Documents/blob/main/Github.md](https://github.com/dzokha1010/Documents/blob/main/Github.md)
@@ -18,3 +19,7 @@ MSSV có mặt: 37, 65, 05, 06, 13, 14, 16, 17, 19, 20, 23, 33, 36, 38, 41, 43, 
 MSSV có mặt: 04, 07, 09, 10, 18, 21, 22,23, 24, 25, 26, 29,32,36, 39, 40, 46,48, 49, 51, 52, 53, 56, 58, 60, 61, 67, 69, 116, 017,
 
 MSSV có mặt: 15, 37, 65, 05, 06, 08, 11, 13, 14, 16, 17, 19, 20, 30, 33, 38, 41, 43, 45, 47, 57, 62, 63, 64, 
+=======
+## HTTT2211: 
+- Hình ảnh minh hoạ thực hành của lớp [Google Drive](https://drive.google.com/drive/folders/1Qrm-RRD5PwUYYmefRrYaRM9N6x3dDcds?usp=drive_link)
+>>>>>>> student
